@@ -8,5 +8,7 @@ En este curso vimos de todo:
 * El verdadero amor por las buenas prácticas
 * Que el profesor está medio chiflado
 * Practica de cherry-pick
+* Incluye ejemplos en Linux, Windows y Mac
+* Disponible para todas las edades
 
 Y como recordatorio: **Este readme.md es práctica**. Diseñado para el ejemplo. No debe de ser tomado en serio. 

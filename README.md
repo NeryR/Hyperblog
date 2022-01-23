@@ -7,5 +7,6 @@ En este curso vimos de todo:
 * El flujo de trabajo en GitHub
 * El verdadero amor por las buenas prácticas
 * Que el profesor está medio chiflado
+* Practica de cherry-pick
 
 Y como recordatorio: **Este readme.md es práctica**. Diseñado para el ejemplo. No debe de ser tomado en serio. 
